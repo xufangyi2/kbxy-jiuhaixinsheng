@@ -1,7 +1,7 @@
 # 卡布西游-旧海新生
 卡布西游长线活动策划案
 
-以下是仓库中所有 PDF / XLSX 文件的打开与预览示例：
+以下是仓库中所有 PDF / XLSX 文件：
 
 1) 《卡布西游》古老时代·旧海新生-东海篇章-附件A-数值配置总表.xlsx
 - 相对链接（在 gh-pages README 与文件同目录时）：
@@ -10,9 +10,7 @@
   https://xufangyi2.github.io/kbxy-jiuhaixinsheng/《卡布西游》古老时代·旧海新生-东海篇章-附件A-数值配置总表.xlsx
 - 在线预览（Google Docs，外部服务）：
   https://docs.google.com/gview?url=https://xufangyi2.github.io/kbxy-jiuhaixinsheng/《卡布西游》古老时代·旧海新生-东海篇章-附件A-数值配置总表.xlsx&embedded=true
-- 自托管 Excel 预览（需你部署一个 viewer，例如 `excel-viewer.html`）：
-  https://xufangyi2.github.io/kbxy-jiuhaixinsheng/excel-viewer.html?file=https://xufangyi2.github.io/kbxy-jiuhaixinsheng/《卡布西游》古老时代·旧海新生-东海篇章-附件A-数值配置总表.xlsx
-
+    
 2) 《卡布西游》古老时代·旧海新生-东海篇章-附录C-测试用例完整文档.xlsx
 - 相对链接：
   [查看 测试用例文档 (XLSX)](./《卡布西游》古老时代·旧海新生-东海篇章-附录C-测试用例完整文档.xlsx)
@@ -20,9 +18,7 @@
   https://xufangyi2.github.io/kbxy-jiuhaixinsheng/《卡布西游》古老时代·旧海新生-东海篇章-附录C-测试用例完整文档.xlsx
 - Google Docs 预览（示例）：
   https://docs.google.com/gview?url=https://xufangyi2.github.io/kbxy-jiuhaixinsheng/《卡布西游》古老时代·旧海新生-东海篇章-附录C-测试用例完整文档.xlsx&embedded=true
-- 自托管 Excel 预览（示例）：
-  https://xufangyi2.github.io/kbxy-jiuhaixinsheng/excel-viewer.html?file=https://xufangyi2.github.io/kbxy-jiuhaixinsheng/《卡布西游》古老时代·旧海新生-东海篇章-附录C-测试用例完整文档.xlsx
-
+  
 3) 《卡布西游》古老时代·旧海新生-东海篇章-附件B-完整剧情台词文档.pdf
 - 相对链接：
   [查看 剧情台词 (PDF)](./《卡布西游》古老时代·旧海新生-东海篇章-附件B-完整剧情台词文档.pdf)
